@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<company>
+   <staff>
+      <firstname>Bianchi</firstname>
+      <lastname>Vittorio</lastname>
+      <nickname>bvitt73</nickname>
+      <salary>34000</salary>
+   </staff>
+   <staff>
+      <firstname>Rossi</firstname>
+      <lastname>Mario</lastname>
+      <nickname>mariotto34</nickname>
+      <salary>28000</salary>
+   </staff>
+   <staff>
+      <firstname>Verdi</firstname>
+      <lastname>Ettore</lastname>
+      <nickname>vettore36</nickname>
+      <salary>30000</salary>
+   </staff>
+   <staff>
+      <firstname>Neri</firstname>
+      <lastname>Marco</lastname>
+      <nickname>nmarco31</nickname>
+      <salary>22000</salary>
+   </staff>
+</company>

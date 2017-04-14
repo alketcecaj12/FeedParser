@@ -1,0 +1,4 @@
+http://feeds.feedburner.com/TechCrunch/startups
+http://feeds.feedburner.com/techcrunch/startups?format=xml
+http://rss.feedsportal.com/c/32275/f/438637/index.rss
+http://www.repubblica.it/rss/ambiente/rss2.0.xml

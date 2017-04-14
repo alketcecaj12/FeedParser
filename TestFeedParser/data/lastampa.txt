@@ -1,0 +1,6 @@
+http://www.lastampa.it/cultura/opinioni/buongiorno/rss.xml
+http://lastampa.feedsportal.com/c/32418/f/664272/index.rss
+http://lastampa.feedsportal.com/c/32418/f/637879/index.rss
+http://lastampa.feedsportal.com/c/32418/f/637874/index.rss
+http://lastampa.feedsportal.com/c/32418/f/625715/index.rss
+http://lastampa.feedsportal.com/c/32418/f/647308/index.rss

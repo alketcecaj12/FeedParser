@@ -1,0 +1,9 @@
+http://feeds.feedburner.com/businessinsider?format=xml
+http://scienceblogs.com/pharyngula/feed/?format=xml
+http://feeds.feedburner.com/techcrunch/startups?format=xml
+http://feeds.mashable.com/Mashable?format=xml
+http://feeds.wired.com/wired/index?format=xml
+http://feeds.feedburner.com/readwriteweb?format=xml
+http://www.tmz.com/rss.xml?format=xml
+http://feeds.gawker.com/lifehacker/full?format=xml
+http://thinkprogress.org.feedsportal.com/c/34726/f/638927/index.rss
